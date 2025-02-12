@@ -455,9 +455,14 @@ nav .navbar-toggler-icon {
   font-family: "Outfit", serif !important;
 }
 
+.gallery h2 {
+  font-family: "Outfit", serif !important;
+  font-weight: 600;
+}
+
 .whatsapp-icon {
   position: fixed;
-  right: 0px;
+  right: 10px;
   bottom: 100px;
   z-index: 1000;
 }
